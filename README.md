@@ -1,2 +1,4 @@
-# inmotion-driver-for-driverless-driving
+# InMotion Driver For Driver less Driving
 E-Motion driver for driverless driving.
+
+To install, please wipe current software and copy paste this script into car root. Run with python 2.7 and Tensorflow.
